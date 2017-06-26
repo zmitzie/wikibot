@@ -9,6 +9,7 @@
   "author": "Zacharias Mitzelos",
   "license": "ISC",
   "dependencies": {
-    "@slack/client": "^3.10.0"
+    "@slack/client": "^3.10.0",
+    "superagent": "^3.5.2"
   }
 }
