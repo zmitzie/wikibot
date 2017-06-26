@@ -1,0 +1,14 @@
+{
+  "name": "wikibot",
+  "version": "1.0.0",
+  "description": "Slack bot that uses the wikipedia API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zacharias Mitzelos",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/client": "^3.10.0"
+  }
+}
